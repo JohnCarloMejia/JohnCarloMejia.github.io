@@ -10,7 +10,7 @@ This project presents the design, construction, and testing of a low-cost FPV qu
 - Frame: Custom 3D-printed airframe
 
 ## Documentation 
-[Live Project Documentation (Google Docs)] (https://docs.google.com/document/d/1J4vF8rnecTPnZeQsKbaOerb7QSl9LxREdG9lwrexRdc/edit?usp=sharing)
+[View Live Project Document (Google Docs)](https://docs.google.com/document/d/1J4vF8rnecTPnZeQsKbaOerb7QSl9LxREdG9lwrexRdc/edit?usp=sharing)
 
 - Full technical report (PDF)
 - Design images
